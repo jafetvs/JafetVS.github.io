@@ -55,7 +55,7 @@ body{
 
 .header{
     height: 60vh !important;
-    background:url('../Images/header.jpg') ;
+    background:url('../Images/header.png') ;
     background-repeat: no-repeat;
     background-size: cover;
 }
