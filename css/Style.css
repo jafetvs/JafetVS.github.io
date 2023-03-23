@@ -55,7 +55,7 @@ body{
 
 .header{
     height: 60vh !important;
-    background:url('../Images/header.png') ;
+    background:url('../images/header.png') ;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -154,7 +154,7 @@ p{
 }
 
 .price {
-    background:url('../Images/costos.jpg') ;
+    background:url('../images/costos.jpg') ;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
